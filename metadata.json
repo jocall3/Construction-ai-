@@ -1,0 +1,7 @@
+{
+  "name": "AI House Architect",
+  "description": "Upload a photo of your house and use AI to visualize architectural and landscaping changes. See new roof patterns, wall colors, garden designs, and more in seconds.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
